@@ -13,7 +13,7 @@ Welcome to my resume repository! This repository contains the most up-to-date ve
 
 ## 🧾 View Resume
 
-👉 [Click here to view/download my resume (PDF)](./Violina_Das_Resume.pdf)
+👉 [Click here to view/download my resume (PDF)](./Resume_Violina_Das.pdf)
 
 ## 📂 How to Use
 
