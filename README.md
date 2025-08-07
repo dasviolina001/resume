@@ -26,7 +26,7 @@ Welcome to my resume repository! This repository contains the most up-to-date ve
 
 ## 📄 File Info
 
-- `Violina_Das_Resume.pdf` – Latest version of my resume
+- `Resume_Violina_Das.pdf` – Latest version of my resume
 
 ## 📢 Note
 
